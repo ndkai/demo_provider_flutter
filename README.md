@@ -1,4 +1,4 @@
-# demo_probider
+# demo_provider
 
 A new Flutter project.
 
